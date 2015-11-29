@@ -1,0 +1,14 @@
+{
+  "name": "try-async",
+  "version": "1.0.0",
+  "description": "Async try-catch like interface for Node.js.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
