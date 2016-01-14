@@ -1,6 +1,6 @@
-# try-async [![Support this project][donate-now]][paypal-donations]
+# try-async [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/try-async.svg)](https://www.npmjs.com/package/try-async) [![Downloads](https://img.shields.io/npm/dt/try-async.svg)](https://www.npmjs.com/package/try-async) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-Async try-catch like interface for Node.js.
+> Async try-catch like interface for Node.js.
 
 ## Installation
 
