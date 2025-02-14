@@ -1,6 +1,6 @@
 {
   "name": "try-async",
-  "version": "1.1.10",
+  "version": "1.1.11",
   "description": "Async try-catch like interface for Node.js.",
   "main": "lib/index.js",
   "directories": {
@@ -36,6 +36,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
